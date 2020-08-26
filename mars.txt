@@ -1,5 +1,6 @@
-whello, I'm in Mars 
+hello, I'm in Mars 
 
 Mars is hot and cold 
 
-Come to Mars, its warm here but so is Venus  
+Come to Mars, its warm here but Venus is cold
+
